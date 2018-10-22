@@ -1,0 +1,2 @@
+# Android-LottieAnimation
+Lottieライブラリを用いてJsonアニメーションを実装するプロジェクト
